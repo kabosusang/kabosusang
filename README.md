@@ -7,7 +7,7 @@
 - ⚡ C++ C#.
 - 💻 目前正在使用Vulkan
 ## 主要项目在这里👇
-- [Sego](https://github.com/kabosusang/Sego)
-
+- [Sego](https://github.com/kabosusang/Sego) --已废弃 👇移步最新项目
+- [SegoRender](https://github.com/kabosusang/SegoRender) 
 
 [![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=kabosusang)]()

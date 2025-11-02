@@ -11,4 +11,5 @@
 - **工具框架**: CMake
 
 ### 📊 GitHub数据统计
-[![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=kabosusang)]()  
+[![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=kabosusang)]()    
+![Kabo's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=kabosusang&show_icons=true&count_private=true)
